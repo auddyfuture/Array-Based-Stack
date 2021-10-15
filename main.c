@@ -11,7 +11,7 @@ int main()
   printf("\n Enter stack size ");
   scanf("%d",&n);
   printf("\n\t Operations for the Stack ");
-  printf("\n\t ++++++++++++++++++++++++ ");
+  printf("\n\t -------------------------");
   printf("\n\t 1 - Push\n\t 2 - Pop\n\t 3 - Display\n\t 4 - End ");
   do{
     printf("\n\t Pick a number ");
