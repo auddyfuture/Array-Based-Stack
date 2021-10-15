@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624067834 source:c:\users\austi\documents\c c++\c projects\stack data structure\main.c
+	<stdio.h>
+	<stdlib.h>
+
